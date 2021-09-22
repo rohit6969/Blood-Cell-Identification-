@@ -1,5 +1,5 @@
 # Blood-Cell-Identification-
-White Blood cell identification using CNN. 
+**White Blood cell identification using CNN:**
 
 Neutrophils
 Neutrophils are a type of white blood cell (WBC or granulocyte) that protect us from infections, among other functions. They make up approximately 40 percent to 60 percent of the white blood cells in our bodies,1﻿ and are the first cells to arrive on the scene when we experience a bacterial infection.
